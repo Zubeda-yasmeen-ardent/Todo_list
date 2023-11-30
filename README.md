@@ -32,7 +32,7 @@ A simple and intuitive to-do list application to manage your tasks efficiently u
 2. **Run the Application:**
 
    ```bash
-   python t2.py
+   python Todo_list.py
 
 ## **Usage & Functionality**
 
